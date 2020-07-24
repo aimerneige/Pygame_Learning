@@ -19,3 +19,7 @@ Draw a line and display
 ## draw_arcs
 
 Draw a arcs and display
+
+## Pie
+
+The game pie
