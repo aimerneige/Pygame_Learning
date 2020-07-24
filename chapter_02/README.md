@@ -8,3 +8,6 @@ Display a font string **"Hello Pygame"**
 
 Draw a circle and display
 
+## draw_rectangle
+
+Draw a rectangle and make it move around
