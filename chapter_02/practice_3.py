@@ -29,7 +29,7 @@ while True:
     pos_x += vel_x
     pos_y += vel_y
 
-    # keep ractangle on the screen
+    # keep rectangle on the screen
     if pos_x > 400 or pos_x < 0:
         vel_x = -vel_x
         num += 1
