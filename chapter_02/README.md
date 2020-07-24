@@ -11,3 +11,7 @@ Draw a circle and display
 ## draw_rectangle
 
 Draw a rectangle and make it move around
+
+## draw_line
+
+Draw a line and display
