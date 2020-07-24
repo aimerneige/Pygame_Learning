@@ -20,6 +20,23 @@ Draw a line and display
 
 Draw a arcs and display
 
+```python
+position = (
+    screen_x,
+    screen_y,
+    width,
+    height
+)
+pygame.draw.arc(
+    screen,      # the screen of the game
+    color,       # the color of the arcs
+    position,    # 
+    start_angle, # start angle of the arcs
+    end_angle,   # end angle of the arcs
+    width        # the width of the arcs
+)
+```
+
 ## Pie
 
 The game pie
