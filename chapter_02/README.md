@@ -30,6 +30,16 @@ Draw a rectangle and make it move around
 
 Draw a line and display
 
+```python
+pygame.draw.line(
+    screen,
+    color,
+    start_point,
+    end_point,
+    width
+)
+```
+
 ## draw_arcs
 
 Draw a arcs and display
